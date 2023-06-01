@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_1\Project1_3\Project1_3\MyForm.h(333,12): warning C4101: y: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_1\Project1_3\Project1_3\MyForm.h(339,12): warning C4101: y: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_1\Project1_3\Project1_3\MyForm.h(345,12): warning C4101: y: неиспользованная локальная переменная
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_1\Project1_3\Project1_3\MyForm.h(351,12): warning C4101: y: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1_3.vcxproj -> C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_1\Project1_3\x64\Debug\Project1_3.exe

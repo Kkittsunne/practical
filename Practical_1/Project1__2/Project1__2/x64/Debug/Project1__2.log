@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_1\Project1__2\Project1__2\MyForm.h(309,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_1\Project1__2\Project1__2\MyForm.h(310,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_1\Project1__2\Project1__2\MyForm.h(311,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_1\Project1__2\Project1__2\MyForm.h(313,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1__2.vcxproj -> C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_1\Project1__2\x64\Debug\Project1__2.exe
