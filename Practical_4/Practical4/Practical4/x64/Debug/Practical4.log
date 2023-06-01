@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_4\Practical4\Practical4\MyForm.h(767,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_4\Practical4\Practical4\MyForm.h(768,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_4\Practical4\Practical4\MyForm.h(822,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_4\Practical4\Practical4\MyForm.h(823,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Practical4.vcxproj -> C:\Users\Admin\Desktop\Таємниці Ханджи\Програмування_2\Practical_4\Practical4\x64\Debug\Practical4.exe
